@@ -8,12 +8,16 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
+
   update:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v7
 
@@ -45,3 +49,57 @@ jobs:
           git commit -m "Automatic calendar update"
 
           git push
+
+      - name: Prepare GitHub Pages
+        run: |
+          mkdir -p public
+
+          cp Real-Madrid.ics public/Real-Madrid.ics
+          cp Malaga-CF.ics public/Malaga-CF.ics
+
+          cat > public/index.html <<'EOF'
+          <!DOCTYPE html>
+          <html lang="fr">
+          <head>
+            <meta charset="UTF-8">
+            <title>Football iCal</title>
+          </head>
+          <body>
+            <h1>Football iCal</h1>
+
+            <p>
+              <a href="Real-Madrid.ics">
+                Real Madrid CF
+              </a>
+            </p>
+
+            <p>
+              <a href="Malaga-CF.ics">
+                Málaga CF
+              </a>
+            </p>
+
+          </body>
+          </html>
+          EOF
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+
+  deploy:
+    needs: update
+
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
