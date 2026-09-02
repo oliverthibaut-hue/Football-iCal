@@ -1,0 +1,145 @@
+{
+  "Santiago Bernabéu": {
+    "city": "Madrid",
+    "country": "Espagne",
+    "stadium": "Estadio Santiago Bernabéu"
+  },
+
+  "Estadio La Cartuja": {
+    "city": "Sevilla",
+    "country": "Espagne",
+    "stadium": "Estadio La Cartuja"
+  },
+
+  "La Rosaleda": {
+    "city": "Málaga",
+    "country": "Espagne",
+    "stadium": "Estadio La Rosaleda"
+  },
+
+  "Riyadh Air Metropolitano": {
+    "city": "Madrid",
+    "country": "Espagne",
+    "stadium": "Riyadh Air Metropolitano"
+  },
+
+  "Balaidos": {
+    "city": "Vigo",
+    "country": "Espagne",
+    "stadium": "Estadio Abanca Balaídos"
+  },
+
+  "Estadio Coliseum": {
+    "city": "Getafe",
+    "country": "Espagne",
+    "stadium": "Estadio Coliseum"
+  },
+
+  "Mendizorrotza": {
+    "city": "Vitoria-Gasteiz",
+    "country": "Espagne",
+    "stadium": "Estadio de Mendizorrotza"
+  },
+
+  "El Sadar": {
+    "city": "Pamplona",
+    "country": "Espagne",
+    "stadium": "Estadio El Sadar"
+  },
+
+  "Ramón Sánchez Pizjuán": {
+    "city": "Sevilla",
+    "country": "Espagne",
+    "stadium": "Estadio Ramón Sánchez-Pizjuán"
+  },
+
+  "Estadio de Vallecas": {
+    "city": "Madrid",
+    "country": "Espagne",
+    "stadium": "Estadio de Vallecas"
+  },
+
+  "Mestalla": {
+    "city": "Valencia",
+    "country": "Espagne",
+    "stadium": "Estadio de Mestalla"
+  },
+
+  "Reale Arena": {
+    "city": "San Sebastián",
+    "country": "Espagne",
+    "stadium": "Reale Arena"
+  },
+
+  "Riazor": {
+    "city": "A Coruña",
+    "country": "Espagne",
+    "stadium": "Estadio Abanca-Riazor"
+  },
+
+  "Estadi Ciutat de València": {
+    "city": "València",
+    "country": "Espagne",
+    "stadium": "Estadi Ciutat de València"
+  },
+
+  "Estadio Martínez Valero": {
+    "city": "Elche",
+    "country": "Espagne",
+    "stadium": "Estadio Martínez Valero"
+  },
+
+  "Estadio de la Cerámica": {
+    "city": "Villarreal",
+    "country": "Espagne",
+    "stadium": "Estadio de la Cerámica"
+  },
+
+  "RCDE": {
+    "city": "Cornellà de Llobregat",
+    "country": "Espagne",
+    "stadium": "RCDE Stadium"
+  },
+
+  "El Sardineros": {
+    "city": "Santander",
+    "country": "Espagne",
+    "stadium": "Campos de Sport de El Sardinero"
+  },
+
+  "San Mamés": {
+    "city": "Bilbao",
+    "country": "Espagne",
+    "stadium": "Estadio de San Mamés"
+  },
+
+  "Spotify Camp Nou": {
+    "city": "Barcelona",
+    "country": "Espagne",
+    "stadium": "Spotify Camp Nou"
+  },
+
+ "Emirates": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Emirates Stadium"
+  },
+
+"OPAP Arena": {
+  "city": "Athína",
+  "country": "Grèce",
+  "stadium": "OPAP Arena"
+},
+
+"Olimpico": {
+  "city": "Roma",
+  "country": "Italie",
+  "stadium": "Stadio Olimpico"
+},
+
+"Stamford Bridge": {
+  "city": "London",
+  "country": "Royaume-Uni",
+  "stadium": "Stamford Bridge"
+}
+}
