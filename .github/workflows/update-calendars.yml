@@ -31,6 +31,7 @@ jobs:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
           python update_all.py
+	  python merge_history.py
 
       - name: Commit updated calendars
         run: |
