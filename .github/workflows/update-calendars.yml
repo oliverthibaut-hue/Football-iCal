@@ -36,7 +36,9 @@ jobs:
           python merge_history_malaga.py
           python update_ubb.py
           python merge_history_ubb.py
+          python archive_f1_history.py
           python update_f1.py
+          python merge_history_f1.py
           python normalize_uk_locations.py
 
       - name: Commit updated calendars
@@ -44,7 +46,7 @@ jobs:
           git config user.name "football-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics
+          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics formula1-history.ics
 
           git diff --cached --quiet || git commit -m "Automatic calendar update"
           git push
