@@ -4,142 +4,264 @@
     "country": "Espagne",
     "stadium": "Estadio Santiago Bernabéu"
   },
-
   "Estadio La Cartuja": {
     "city": "Sevilla",
     "country": "Espagne",
     "stadium": "Estadio La Cartuja"
   },
-
   "La Rosaleda": {
     "city": "Málaga",
     "country": "Espagne",
     "stadium": "Estadio La Rosaleda"
   },
-
   "Riyadh Air Metropolitano": {
     "city": "Madrid",
     "country": "Espagne",
     "stadium": "Riyadh Air Metropolitano"
   },
-
   "Balaidos": {
     "city": "Vigo",
     "country": "Espagne",
     "stadium": "Estadio Abanca Balaídos"
   },
-
   "Estadio Coliseum": {
     "city": "Getafe",
     "country": "Espagne",
     "stadium": "Estadio Coliseum"
   },
-
   "Mendizorrotza": {
     "city": "Vitoria-Gasteiz",
     "country": "Espagne",
     "stadium": "Estadio de Mendizorrotza"
   },
-
   "El Sadar": {
     "city": "Pamplona",
     "country": "Espagne",
     "stadium": "Estadio El Sadar"
   },
-
   "Ramón Sánchez Pizjuán": {
     "city": "Sevilla",
     "country": "Espagne",
     "stadium": "Estadio Ramón Sánchez-Pizjuán"
   },
-
   "Estadio de Vallecas": {
     "city": "Madrid",
     "country": "Espagne",
     "stadium": "Estadio de Vallecas"
   },
-
   "Mestalla": {
     "city": "Valencia",
     "country": "Espagne",
     "stadium": "Estadio de Mestalla"
   },
-
   "Reale Arena": {
     "city": "San Sebastián",
     "country": "Espagne",
     "stadium": "Reale Arena"
   },
-
   "Riazor": {
     "city": "A Coruña",
     "country": "Espagne",
     "stadium": "Estadio Abanca-Riazor"
   },
-
   "Estadi Ciutat de València": {
     "city": "València",
     "country": "Espagne",
     "stadium": "Estadi Ciutat de València"
   },
-
   "Estadio Martínez Valero": {
     "city": "Elche",
     "country": "Espagne",
     "stadium": "Estadio Martínez Valero"
   },
-
   "Estadio de la Cerámica": {
     "city": "Villarreal",
     "country": "Espagne",
     "stadium": "Estadio de la Cerámica"
   },
-
   "RCDE": {
     "city": "Cornellà de Llobregat",
     "country": "Espagne",
     "stadium": "RCDE Stadium"
   },
-
   "El Sardineros": {
     "city": "Santander",
     "country": "Espagne",
     "stadium": "Campos de Sport de El Sardinero"
   },
-
   "San Mamés": {
     "city": "Bilbao",
     "country": "Espagne",
     "stadium": "Estadio de San Mamés"
   },
-
   "Spotify Camp Nou": {
     "city": "Barcelona",
     "country": "Espagne",
     "stadium": "Spotify Camp Nou"
   },
-
- "Emirates": {
+  "Emirates": {
     "city": "London",
     "country": "Angleterre",
     "stadium": "Emirates Stadium"
   },
-
-"OPAP Arena": {
-  "city": "Athína",
-  "country": "Grèce",
-  "stadium": "OPAP Arena"
-},
-
-"Olimpico": {
-  "city": "Roma",
-  "country": "Italie",
-  "stadium": "Stadio Olimpico"
-},
-
-"Stamford Bridge": {
-  "city": "London",
-  "country": "Royaume-Uni",
-  "stadium": "Stamford Bridge"
-}
+  "OPAP Arena": {
+    "city": "Athína",
+    "country": "Grèce",
+    "stadium": "OPAP Arena"
+  },
+  "Olimpico": {
+    "city": "Roma",
+    "country": "Italie",
+    "stadium": "Stadio Olimpico"
+  },
+  "Stamford Bridge": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Stamford Bridge"
+  },
+  "Emirates Stadium": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Emirates Stadium"
+  },
+  "Villa Park": {
+    "city": "Birmingham",
+    "country": "Angleterre",
+    "stadium": "Villa Park"
+  },
+  "Stadium of Light": {
+    "city": "Sunderland",
+    "country": "Angleterre",
+    "stadium": "Stadium of Light"
+  },
+  "Amex Stadium": {
+    "city": "Brighton",
+    "country": "Angleterre",
+    "stadium": "Amex Stadium"
+  },
+  "The American Express Community Stadium": {
+    "city": "Brighton",
+    "country": "Angleterre",
+    "stadium": "Amex Stadium"
+  },
+  "City Ground": {
+    "city": "Nottingham",
+    "country": "Angleterre",
+    "stadium": "City Ground"
+  },
+  "Anfield": {
+    "city": "Liverpool",
+    "country": "Angleterre",
+    "stadium": "Anfield"
+  },
+  "MKM Stadium": {
+    "city": "Hull",
+    "country": "Angleterre",
+    "stadium": "MKM Stadium"
+  },
+  "St James' Park": {
+    "city": "Newcastle",
+    "country": "Angleterre",
+    "stadium": "St James' Park"
+  },
+  "Etihad Stadium": {
+    "city": "Manchester",
+    "country": "Angleterre",
+    "stadium": "Etihad Stadium"
+  },
+  "Gtech Community Stadium": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Gtech Community Stadium"
+  },
+  "Tottenham Hotspur Stadium": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Tottenham Hotspur Stadium"
+  },
+  "Vitality Stadium": {
+    "city": "Bournemouth",
+    "country": "Angleterre",
+    "stadium": "Vitality Stadium"
+  },
+  "Old Trafford": {
+    "city": "Manchester",
+    "country": "Angleterre",
+    "stadium": "Old Trafford"
+  },
+  "Selhurst Park": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Selhurst Park"
+  },
+  "Craven Cottage": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Craven Cottage"
+  },
+  "Portman Road": {
+    "city": "Ipswich",
+    "country": "Angleterre",
+    "stadium": "Portman Road"
+  },
+  "Elland Road": {
+    "city": "Leeds",
+    "country": "Angleterre",
+    "stadium": "Elland Road"
+  },
+  "Hill Dickinson Stadium": {
+    "city": "Liverpool",
+    "country": "Angleterre",
+    "stadium": "Hill Dickinson Stadium"
+  },
+  "Coventry Building Society Arena": {
+    "city": "Coventry",
+    "country": "Angleterre",
+    "stadium": "Coventry Building Society Arena"
+  },
+  "Wembley": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Wembley Stadium"
+  },
+  "Wembley Stadium": {
+    "city": "London",
+    "country": "Angleterre",
+    "stadium": "Wembley Stadium"
+  },
+  "Stadio Diego Armando Maradona": {
+    "city": "Napoli",
+    "country": "Italie",
+    "stadium": "Stadio Diego Armando Maradona"
+  },
+  "Diego Armando Maradona Stadium": {
+    "city": "Napoli",
+    "country": "Italie",
+    "stadium": "Stadio Diego Armando Maradona"
+  },
+  "Allianz Arena": {
+    "city": "München",
+    "country": "Allemagne",
+    "stadium": "Allianz Arena"
+  },
+  "Fortuna Arena": {
+    "city": "Praha",
+    "country": "République tchèque",
+    "stadium": "Fortuna Arena"
+  },
+  "Estadio Benito Villamarín": {
+    "city": "Sevilla",
+    "country": "Espagne",
+    "stadium": "Estadio Benito Villamarín"
+  },
+  "Benito Villamarín Stadium": {
+    "city": "Sevilla",
+    "country": "Espagne",
+    "stadium": "Estadio Benito Villamarín"
+  },
+  "Estadi Montilivi": {
+    "city": "Girona",
+    "country": "Espagne",
+    "stadium": "Estadi Montilivi"
+  }
 }

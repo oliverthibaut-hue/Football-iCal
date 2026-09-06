@@ -42,7 +42,7 @@ jobs:
           git config user.name "football-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics
+          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics
 
           git diff --cached --quiet || git commit -m "Automatic calendar update"
           git push
@@ -53,7 +53,6 @@ jobs:
           cp Real-Madrid.ics public/Real-Madrid.ics
           cp Malaga-CF.ics public/Malaga-CF.ics
           cp Union-Bordeaux-Begles.ics public/Union-Bordeaux-Begles.ics
-          cp Arsenal-FC.ics public/Arsenal-FC.ics
 
           printf '%s\n' \
             '<!DOCTYPE html>' \
@@ -67,7 +66,6 @@ jobs:
             '  <p><a href="Real-Madrid.ics">Real Madrid CF</a></p>' \
             '  <p><a href="Malaga-CF.ics">Málaga CF</a></p>' \
             '  <p><a href="Union-Bordeaux-Begles.ics">Union Bordeaux Bègles</a></p>' \
-            '  <p><a href="Arsenal-FC.ics">Arsenal FC</a></p>' \
             '</body>' \
             '</html>' \
             > public/index.html

@@ -185,49 +185,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # 3. FIXTUR.ES - ARSENAL
-    # --------------------------------------------------------
-
-    try:
-        download_ics(
-            (
-                "https://ics.fixtur.es/v2/"
-                "arsenal.ics"
-            ),
-            "arsenal-source.ics"
-        )
-    except Exception:
-        print(
-            "Source directe Arsenal indisponible, "
-            "essai du flux Google public Fixtur.es..."
-        )
-
-        download_ics(
-            (
-                "https://calendar.google.com/calendar/ical/"
-                "eka2uomkdqfhu5bk6hbdc7a4d4%40group.calendar.google.com/"
-                "public/basic.ics"
-            ),
-            "arsenal-source.ics"
-        )
-
-
-    # --------------------------------------------------------
-    # 4. FOOTBALL-DATA - PREMIER LEAGUE
-    # --------------------------------------------------------
-
-    download_football_data(
-        (
-            "https://api.football-data.org/v4/"
-            "competitions/PL/matches"
-            "?season=2026"
-        ),
-        "premier-league-2026.json"
-    )
-
-
-    # --------------------------------------------------------
-    # 5. FOOTBALL-DATA - LALIGA
+    # 3. FOOTBALL-DATA - LALIGA
     # --------------------------------------------------------
 
     download_football_data(
@@ -241,7 +199,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # 6. FOOTBALL-DATA - CHAMPIONS LEAGUE
+    # 4. FOOTBALL-DATA - CHAMPIONS LEAGUE
     # --------------------------------------------------------
 
     download_football_data(
@@ -255,7 +213,7 @@ def main():
 
 
     # --------------------------------------------------------
-    # 7. GÉNÉRATION DES CALENDRIERS FINAUX
+    # 5. GÉNÉRATION DES CALENDRIERS FINAUX
     # --------------------------------------------------------
 
     print()

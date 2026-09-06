@@ -22,7 +22,6 @@ BASE_DIR = Path(__file__).resolve().parent
 OUTPUTS = {
     "Real Madrid CF": "Real-Madrid.ics",
     "Málaga CF": "Malaga-CF.ics",
-    "Arsenal FC": "Arsenal-FC.ics",
 }
 
 MATCH_DURATION = timedelta(
