@@ -25,7 +25,7 @@ TRANSP:OPAQUE
 DTSTART:20250111T151500Z
 DTEND:20250111T165000Z
 SUMMARY:Investec Champions Cup | J3 - Exeter Chiefs 17 - 69 Union Bordeaux Bègles
-LOCATION:Exeter (Royaume-Uni) - Sandy Park
+LOCATION:Exeter (Angleterre) - Sandy Park
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-2ff20b03a0496ecb767b@oliverthibaut-football-ical
@@ -190,7 +190,7 @@ TRANSP:OPAQUE
 DTSTART:20250524T134500Z
 DTEND:20250524T152000Z
 SUMMARY:Investec Champions Cup | Finale - Northampton Saints 20 - 28 Union Bordeaux Bègles
-LOCATION:Cardiff (Royaume-Uni) - Principality Stadium
+LOCATION:Cardiff (Pays de Galles) - Principality Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-c627a3820c15f50c5d63@oliverthibaut-football-ical
@@ -432,7 +432,7 @@ TRANSP:OPAQUE
 DTSTART:20260118T130000Z
 DTEND:20260118T143500Z
 SUMMARY:Investec Champions Cup | J4 - Bristol Bears 15 - 27 Union Bordeaux Bègles
-LOCATION:Bristol (Royaume-Uni) - Ashton Gate Stadium
+LOCATION:Bristol (Angleterre) - Ashton Gate Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-a65f03c43af2ba671415@oliverthibaut-football-ical
@@ -706,7 +706,7 @@ TRANSP:OPAQUE
 DTSTART:20261016T190000Z
 DTEND:20261016T203500Z
 SUMMARY:Investec Champions Cup | J1 - Gloucester Rugby - Union Bordeaux Bègles
-LOCATION:Gloucester (Royaume-Uni) - Kingsholm Stadium
+LOCATION:Gloucester (Angleterre) - Kingsholm Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-ca79e95964d127c3b5de@oliverthibaut-football-ical
@@ -827,7 +827,7 @@ TRANSP:OPAQUE
 DTSTART:20270116T151500Z
 DTEND:20270116T165000Z
 SUMMARY:Investec Champions Cup | J4 - Bristol Bears - Union Bordeaux Bègles
-LOCATION:Bristol (Royaume-Uni) - Ashton Gate Stadium
+LOCATION:Bristol (Angleterre) - Ashton Gate Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-ac54c19de21a6c31a1eb@oliverthibaut-football-ical
