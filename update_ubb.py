@@ -530,24 +530,39 @@ def make_uid(fixture):
 
 def make_title(fixture):
     if fixture["competition"] == "Friendly":
-        prefix = "Friendly"
+        prefix = "Friendly | 🏉"
+
+    elif fixture["competition"] == "Top 14":
+        prefix = (
+            f'Top14 | 🏉 J{fixture["matchday"]}'
+        )
+
+    elif fixture["competition"] == "Investec Champions Cup":
+        prefix = (
+            f'Champions Cup | 🏉 J{fixture["matchday"]}'
+        )
+
     else:
         prefix = (
-            f'{fixture["competition"]} | J{fixture["matchday"]}'
+            f'{fixture["competition"]} | 🏉 '
+            f'J{fixture["matchday"]}'
         )
 
     if fixture["score"]:
         hs, as_ = fixture["score"]
+
         match_text = (
-            f'{fixture["home"]} {hs} - {as_} {fixture["away"]}'
+            f'{fixture["home"]} {hs} - '
+            f'{as_} {fixture["away"]}'
         )
+
     else:
         match_text = (
-            f'{fixture["home"]} - {fixture["away"]}'
+            f'{fixture["home"]} - '
+            f'{fixture["away"]}'
         )
 
     return f"{prefix} - {match_text}"
-
 
 def event_lines(fixture):
     now_utc = datetime.now(tz=UTC).strftime("%Y%m%dT%H%M%SZ")
