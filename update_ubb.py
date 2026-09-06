@@ -563,7 +563,7 @@ def event_lines(fixture):
 
     if fixture["kickoff"]:
         start_utc = fixture["kickoff"].astimezone(UTC)
-        end_utc = start_utc + timedelta(hours=2)
+        end_utc = start_utc + timedelta(hours=1, minutes=35)
 
         lines.extend([
             "DTSTART:" + start_utc.strftime("%Y%m%dT%H%M%SZ"),
