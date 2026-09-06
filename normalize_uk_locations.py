@@ -11,6 +11,7 @@ FILES = [
     "real-madrid-history.ics",
     "malaga-history.ics",
     "ubb-history.ics",
+"Formula-1.ics",
 ]
 
 CITY_COUNTRIES = {
