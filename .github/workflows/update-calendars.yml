@@ -35,6 +35,7 @@ jobs:
           python merge_history.py
           python merge_history_malaga.py
           python update_ubb.py
+          python merge_history_ubb.py
 
       - name: Commit updated calendars
         run: |
