@@ -36,8 +36,8 @@ jobs:
           python merge_history_malaga.py
           python update_ubb.py
           python merge_history_ubb.py
-python update_f1.py
-python normalize_uk_locations.py
+          python update_f1.py
+          python normalize_uk_locations.py
 
       - name: Commit updated calendars
         run: |
@@ -56,7 +56,7 @@ python normalize_uk_locations.py
           cp Malaga-CF.ics public/Malaga-CF.ics
           cp Union-Bordeaux-Begles.ics public/Union-Bordeaux-Begles.ics
           cp Arsenal-FC.ics public/Arsenal-FC.ics
-cp Formula-1.ics public/Fomrula-1.ics
+          cp Formula-1.ics public/Formula-1.ics
 
           printf '%s\n' \
             '<!DOCTYPE html>' \
@@ -71,7 +71,7 @@ cp Formula-1.ics public/Fomrula-1.ics
             '  <p><a href="Malaga-CF.ics">Málaga CF</a></p>' \
             '  <p><a href="Union-Bordeaux-Begles.ics">Union Bordeaux Bègles</a></p>' \
             '  <p><a href="Arsenal-FC.ics">Arsenal FC</a></p>' \
-'  <p><a href="Formula-1.ics">Formula 1</a></p>' \
+            '  <p><a href="Formula-1.ics">Formula 1</a></p>' \
             '</body>' \
             '</html>' \
             > public/index.html
