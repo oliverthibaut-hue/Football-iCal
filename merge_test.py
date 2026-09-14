@@ -1166,7 +1166,8 @@ def build_title(
 
 
     if (
-        "league cup" in summary_lower
+        "[lc]" in summary_lower
+        or "league cup" in summary_lower
         or "carabao" in summary_lower
         or "efl cup" in summary_lower
     ):
