@@ -40,6 +40,7 @@ jobs:
           python update_f1.py
           python merge_history_f1.py
           python normalize_uk_locations.py
+          python add_alarms.py
 
       - name: Commit updated calendars
         run: |

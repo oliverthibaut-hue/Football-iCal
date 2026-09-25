@@ -15,6 +15,11 @@ DTSTART:20250104T153000Z
 DTEND:20250104T170500Z
 SUMMARY:Top 14 | J14 - Stade Français Paris 19 - 46 Union Bordeaux Bègles
 LOCATION:Paris (France) - Stade Jean-Bouin
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-d01727106cd8fafa01e9@oliverthibaut-football-ical
@@ -26,6 +31,11 @@ DTSTART:20250111T151500Z
 DTEND:20250111T165000Z
 SUMMARY:Investec Champions Cup | J3 - Exeter Chiefs 17 - 69 Union Bordeaux Bègles
 LOCATION:Exeter (Angleterre) - Sandy Park
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-2ff20b03a0496ecb767b@oliverthibaut-football-ical
@@ -37,6 +47,11 @@ DTSTART:20250119T130000Z
 DTEND:20250119T143500Z
 SUMMARY:Investec Champions Cup | J4 - Union Bordeaux Bègles 66 - 12 Hollywoodbets Sharks
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-328619e0fa124e70619b@oliverthibaut-football-ical
@@ -48,6 +63,11 @@ DTSTART:20250125T201500Z
 DTEND:20250125T215000Z
 SUMMARY:Top 14 | J15 - Union Bordeaux Bègles 20 - 22 LOU Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-73a238f5925ee332a148@oliverthibaut-football-ical
@@ -59,6 +79,11 @@ DTSTART:20250215T133000Z
 DTEND:20250215T150500Z
 SUMMARY:Top 14 | J16 - Aviron Bayonnais 36 - 32 Union Bordeaux Bègles
 LOCATION:Bayonne (France) - Stade Jean Dauger
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-8a1650ab9c405f3c58ba@oliverthibaut-football-ical
@@ -70,6 +95,11 @@ DTSTART:20250223T200500Z
 DTEND:20250223T214000Z
 SUMMARY:Top 14 | J17 - Union Bordeaux Bègles 22 - 18 ASM Clermont Auvergne
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-b196859dd0d6fc9229f7@oliverthibaut-football-ical
@@ -81,6 +111,11 @@ DTSTART:20250301T200500Z
 DTEND:20250301T214000Z
 SUMMARY:Top 14 | J18 - USA Perpignan 17 - 29 Union Bordeaux Bègles
 LOCATION:Perpignan (France) - Stade Aimé-Giral
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-7ff8921692f38be43d6e@oliverthibaut-football-ical
@@ -92,6 +127,11 @@ DTSTART:20250323T200500Z
 DTEND:20250323T214000Z
 SUMMARY:Top 14 | J19 - Union Bordeaux Bègles 32 - 24 Stade Toulousain
 LOCATION:Bordeaux (France) - Stade Atlantique
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-15e6c416eeb0916d9f11@oliverthibaut-football-ical
@@ -103,6 +143,11 @@ DTSTART:20250330T190500Z
 DTEND:20250330T204000Z
 SUMMARY:Top 14 | J20 - Racing 92 36 - 31 Union Bordeaux Bègles
 LOCATION:Paris (France) - Paris La Défense Arena
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-2fee1e4481b78ff78d8c@oliverthibaut-football-ical
@@ -114,6 +159,11 @@ DTSTART:20250406T113000Z
 DTEND:20250406T130500Z
 SUMMARY:Investec Champions Cup | 8ème de Finale - Union Bordeaux Bègles 43 - 31 Ulster
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-6be989f1b9ecb342e991@oliverthibaut-football-ical
@@ -125,6 +175,11 @@ DTSTART:20250412T140000Z
 DTEND:20250412T153500Z
 SUMMARY:Investec Champions Cup | 4rt de Finale - Union Bordeaux Bègles 47 - 29 Munster
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-640cce726154776ba371@oliverthibaut-football-ical
@@ -136,6 +191,11 @@ DTSTART:20250419T123000Z
 DTEND:20250419T140500Z
 SUMMARY:Top 14 | J21 - Section Paloise 22 - 26 Union Bordeaux Bègles
 LOCATION:Pau (France) - Stade du Hameau
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-f4f8247b90f337dbf27d@oliverthibaut-football-ical
@@ -147,6 +207,11 @@ DTSTART:20250426T190500Z
 DTEND:20250426T204000Z
 SUMMARY:Top 14 | J22 - Union Bordeaux Bègles 10 - 21 Stade Rochelais
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-a37d6c36f1d4b245fd1d@oliverthibaut-football-ical
@@ -158,6 +223,11 @@ DTSTART:20250504T140000Z
 DTEND:20250504T153500Z
 SUMMARY:Investec Champions Cup | 2mi Finale - Union Bordeaux Bègles 35 - 18 Stade Toulousain
 LOCATION:Bordeaux (France) - Stade Atlantique
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ac0e5d954cccbacb1ec6@oliverthibaut-football-ical
@@ -169,6 +239,11 @@ DTSTART:20250511T190500Z
 DTEND:20250511T204000Z
 SUMMARY:Top 14 | J23 - Montpellier Hérault Rugby 46 - 27 Union Bordeaux Bègles
 LOCATION:Montpellier (France) - GGL Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-dee1ceb64a158276ff0a@oliverthibaut-football-ical
@@ -180,6 +255,11 @@ DTSTART:20250517T123000Z
 DTEND:20250517T140500Z
 SUMMARY:Top 14 | J24 - Union Bordeaux Bègles 34 - 29 Castres Olympique
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-2f0ac8348babbde63d19@oliverthibaut-football-ical
@@ -191,6 +271,11 @@ DTSTART:20250524T134500Z
 DTEND:20250524T152000Z
 SUMMARY:Investec Champions Cup | Finale - Northampton Saints 20 - 28 Union Bordeaux Bègles
 LOCATION:Cardiff (Pays de Galles) - Principality Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-c627a3820c15f50c5d63@oliverthibaut-football-ical
@@ -202,6 +287,11 @@ DTSTART:20250601T190500Z
 DTEND:20250601T204000Z
 SUMMARY:Top 14 | J25 - RC Toulon 27 - 10 Union Bordeaux Bègles
 LOCATION:Toulon (France) - Stade Mayol
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-b2bc5c4377105c3ffa1d@oliverthibaut-football-ical
@@ -213,6 +303,11 @@ DTSTART:20250607T190500Z
 DTEND:20250607T204000Z
 SUMMARY:Top 14 | J26 - Union Bordeaux Bègles 59 - 28 RC Vannes
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-c56844166cc6aab7b30d@oliverthibaut-football-ical
@@ -224,6 +319,11 @@ DTSTART:20250621T190500Z
 DTEND:20250621T204000Z
 SUMMARY:Top 14 | 2mi Finale - Union Bordeaux Bègles 39 - 24 RC Toulon
 LOCATION:Lyon (France) - Groupama Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-0c27db1743f7d9e33ae7@oliverthibaut-football-ical
@@ -235,6 +335,11 @@ DTSTART:20250628T190500Z
 DTEND:20250628T204000Z
 SUMMARY:Top 14 | Finale - Stade Toulousain - Union Bordeaux Bègles
 LOCATION:Saint-Denis (France) - Stade de France
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-099945c3428770c98c8e@oliverthibaut-football-ical
@@ -246,6 +351,11 @@ DTSTART:20250906T190500Z
 DTEND:20250906T204000Z
 SUMMARY:Top 14 | J1 - Union Bordeaux Bègles 23 - 18 Stade Rochelais
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ae62f9f68ffdb894f335@oliverthibaut-football-ical
@@ -257,6 +367,11 @@ DTSTART:20250914T190500Z
 DTEND:20250914T204000Z
 SUMMARY:Top 14 | J2 - Racing 92 44 - 32 Union Bordeaux Bègles
 LOCATION:Nanterre (France) - Paris La Défense Arena
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-d5018e9f57916c15a25e@oliverthibaut-football-ical
@@ -268,6 +383,11 @@ DTSTART:20250920T163000Z
 DTEND:20250920T180500Z
 SUMMARY:Top 14 | J3 - Union Bordeaux Bègles 71 - 24 US Montauban Sapiac
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-fb2a664e0de270f1cb23@oliverthibaut-football-ical
@@ -279,6 +399,11 @@ DTSTART:20250927T190500Z
 DTEND:20250927T204000Z
 SUMMARY:Top 14 | J4 - Stade Français Paris 28 - 7 Union Bordeaux Bègles
 LOCATION:Paris (France) - Stade Jean-Bouin
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-7e16703a7cd9db6fd2a5@oliverthibaut-football-ical
@@ -290,6 +415,11 @@ DTSTART:20251004T190000Z
 DTEND:20251004T203500Z
 SUMMARY:Top 14 | J5 - Union Bordeaux Bègles 32 - 20 LOU Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ebb1b1867ea384ff3138@oliverthibaut-football-ical
@@ -301,6 +431,11 @@ DTSTART:20251012T190500Z
 DTEND:20251012T204000Z
 SUMMARY:Top 14 | J6 - Stade Toulousain 56 - 13 Union Bordeaux Bègles
 LOCATION:Toulouse (France) - Stade Ernest-Wallon
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-157ec8928c6ef157d3f0@oliverthibaut-football-ical
@@ -312,6 +447,11 @@ DTSTART:20251018T143500Z
 DTEND:20251018T161000Z
 SUMMARY:Top 14 | J7 - USA Perpignan 12 - 27 Union Bordeaux Bègles
 LOCATION:Perpignan (France) - Stade Aimé-Giral
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-4a3485a7ba264636cac1@oliverthibaut-football-ical
@@ -323,6 +463,11 @@ DTSTART:20251025T190000Z
 DTEND:20251025T203500Z
 SUMMARY:Top 14 | J8 - Union Bordeaux Bègles 41 - 12 Aviron Bayonnais
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-1305a00ef67e929e2490@oliverthibaut-football-ical
@@ -334,6 +479,11 @@ DTSTART:20251101T153500Z
 DTEND:20251101T171000Z
 SUMMARY:Top 14 | J9 - Castres Olympique 26 - 28 Union Bordeaux Bègles
 LOCATION:Castres (France) - Stade Pierre-Fabre
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-5f393a5b510f39d8979c@oliverthibaut-football-ical
@@ -345,6 +495,11 @@ DTSTART:20251121T200000Z
 DTEND:20251121T213500Z
 SUMMARY:Top 14 | J10 - Union Bordeaux Bègles 33 - 34 Section Paloise
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-72f25c1853e7e52ca6e0@oliverthibaut-football-ical
@@ -356,6 +511,11 @@ DTSTART:20251129T133000Z
 DTEND:20251129T150500Z
 SUMMARY:Top 14 | J11 - Montpellier Hérault Rugby 28 - 24 Union Bordeaux Bègles
 LOCATION:Montpellier (France) - Septeo Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-7a22502214a02770442d@oliverthibaut-football-ical
@@ -367,6 +527,11 @@ DTSTART:20251206T151500Z
 DTEND:20251206T165000Z
 SUMMARY:Investec Champions Cup | J1 - Vodacom Bulls 33 - 46 Union Bordeaux Bègles
 LOCATION:Pretoria (Afrique du Sud) - Loftus Versfeld Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-5fe60788f3b33a15c51a@oliverthibaut-football-ical
@@ -378,6 +543,11 @@ DTSTART:20251213T151500Z
 DTEND:20251213T165000Z
 SUMMARY:Investec Champions Cup | J2 - Union Bordeaux Bègles 50 - 21 Scarlets
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-5c307672b8ee16443316@oliverthibaut-football-ical
@@ -389,6 +559,11 @@ DTSTART:20251221T200500Z
 DTEND:20251221T214000Z
 SUMMARY:Top 14 | J12 - Union Bordeaux Bègles 46 - 7 RC Toulon
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-5db9395f5d312f756649@oliverthibaut-football-ical
@@ -400,6 +575,11 @@ DTSTART:20251227T200000Z
 DTEND:20251227T213500Z
 SUMMARY:Top 14 | J13 - ASM Clermont Auvergne 34 - 19 Union Bordeaux Bègles
 LOCATION:Clermont (France) - Stade Marcel-Michelin
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-f2fc278de1fad1def56b@oliverthibaut-football-ical
@@ -411,6 +591,11 @@ DTSTART:20260103T200000Z
 DTEND:20260103T213500Z
 SUMMARY:Top 14 | J14 - Union Bordeaux Bègles 62 - 20 Racing 92
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-792f5f359395236852ca@oliverthibaut-football-ical
@@ -422,6 +607,11 @@ DTSTART:20260111T151500Z
 DTEND:20260111T165000Z
 SUMMARY:Investec Champions Cup | J3 - Union Bordeaux Bègles 50 - 28 Northampton Saints
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-abc23e1e9b7dcf2f29ec@oliverthibaut-football-ical
@@ -433,6 +623,11 @@ DTSTART:20260118T130000Z
 DTEND:20260118T143500Z
 SUMMARY:Investec Champions Cup | J4 - Bristol Bears 15 - 27 Union Bordeaux Bègles
 LOCATION:Bristol (Angleterre) - Ashton Gate Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-a65f03c43af2ba671415@oliverthibaut-football-ical
@@ -444,6 +639,11 @@ DTSTART:20260124T133000Z
 DTEND:20260124T150500Z
 SUMMARY:Top 14 | J15 - Union Bordeaux Bègles 28 - 33 Stade Français Paris
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-0b023b03a42f2ef3a31c@oliverthibaut-football-ical
@@ -455,6 +655,11 @@ DTSTART:20260131T153500Z
 DTEND:20260131T171000Z
 SUMMARY:Top 14 | J16 US Montauban Sapiac 16 - 31 Union Bordeaux Bègles
 LOCATION:Montauban (France) - Stade Sapiac
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ab1dc45fb3e94f563e2f@oliverthibaut-football-ical
@@ -466,6 +671,11 @@ DTSTART:20260214T133000Z
 DTEND:20260214T150500Z
 SUMMARY:Top 14 | J17 - Union Bordeaux Bègles 57 - 32 Castres Olympique
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-82d668c20ab3196877d1@oliverthibaut-football-ical
@@ -477,6 +687,11 @@ DTSTART:20260301T200500Z
 DTEND:20260301T214000Z
 SUMMARY:Top 14 | J18 - Section Paloise 39 - 17 Union Bordeaux Bègles
 LOCATION:Montauban (France) - Stade Sapiac
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-70a138df5073e45f2174@oliverthibaut-football-ical
@@ -488,6 +703,11 @@ DTSTART:20260322T200500Z
 DTEND:20260322T214000Z
 SUMMARY:Top 14 | J19 - Union Bordeaux Bègles 44 - 20 Stade Toulousain
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-e3a9370c8c2e36e714bf@oliverthibaut-football-ical
@@ -499,6 +719,11 @@ DTSTART:20260328T153000Z
 DTEND:20260328T170500Z
 SUMMARY:Top 14 | J20 - LOU Rugby 17 - 21 Union Bordeaux Bègles
 LOCATION:Montauban (France) - Stade Sapiac
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-402f2bd9c398888f78ff@oliverthibaut-football-ical
@@ -510,6 +735,11 @@ DTSTART:20260405T140000Z
 DTEND:20260405T153500Z
 SUMMARY:Investec Champions Cup | 8ème de Finale - Union Bordeaux Bègles 64 - 14 Leicester Tigers
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-aa050ef56064010a544b@oliverthibaut-football-ical
@@ -521,6 +751,11 @@ DTSTART:20260412T140000Z
 DTEND:20260412T153500Z
 SUMMARY:Investec Champions Cup | 4rt de Finale - Union Bordeaux Bègles 30 - 15 Stade Toulousain
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ce642163d21a6fabe0a5@oliverthibaut-football-ical
@@ -532,6 +767,11 @@ DTSTART:20260418T123000Z
 DTEND:20260418T140500Z
 SUMMARY:Top 14 | J21 - Stade Rochelais 45 - 15 Union Bordeaux Bègles
 LOCATION:La Rochelle (France) - Stade Marcel-Deflandre
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-cd23063d8ac8253db073@oliverthibaut-football-ical
@@ -543,6 +783,11 @@ DTSTART:20260425T190000Z
 DTEND:20260425T203500Z
 SUMMARY:Top 14 | J22 - Union Bordeaux Bègles 21 - 23 Montpellier Hérault Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-4c2e690f5e35492c6a9f@oliverthibaut-football-ical
@@ -554,6 +799,11 @@ DTSTART:20260503T140000Z
 DTEND:20260503T153500Z
 SUMMARY:Investec Champions Cup | 2mi Finale - Union Bordeaux Bègles 38 - 26 Bath Rugby
 LOCATION:Bordeaux (France) - Stade Atlantique
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-c7da9ec0e124fdfcdf6b@oliverthibaut-football-ical
@@ -565,6 +815,11 @@ DTSTART:20260509T150000Z
 DTEND:20260509T163500Z
 SUMMARY:Top 14 | J23 - Aviron Bayonnais 38 - 40 Union Bordeaux Bègles
 LOCATION:Bayonne (France) - Stade Jean-Dauger
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-a4ff741b80e8b2bb40c0@oliverthibaut-football-ical
@@ -576,6 +831,11 @@ DTSTART:20260516T150000Z
 DTEND:20260516T163500Z
 SUMMARY:Top 14 | J24 - Union Bordeaux Bègles 37 - 32 USA Perpignan
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-e6f6841659a50b7a16a2@oliverthibaut-football-ical
@@ -587,6 +847,11 @@ DTSTART:20260523T134500Z
 DTEND:20260523T152000Z
 SUMMARY:Investec Champions Cup | Finale - Leinster Rugby 19 - 41 Union Bordeaux Bègles
 LOCATION:Bilbao (Espagne) - San Mamés
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-ba44aca7ad88952163b8@oliverthibaut-football-ical
@@ -598,6 +863,11 @@ DTSTART:20260531T143000Z
 DTEND:20260531T160500Z
 SUMMARY:Top 14 | J25 - RC Toulon 27 - 22 Union Bordeaux Bègles
 LOCATION:Toulon (France) - Stade Mayol
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-history-a7037b4c8d00a806db39@oliverthibaut-football-ical
@@ -609,6 +879,11 @@ DTSTART:20260606T190000Z
 DTEND:20260606T203500Z
 SUMMARY:Top 14 | J26 - Union Bordeaux Bègles - ASM Clermont Auvergne
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-617b2569e911f6f41746@oliverthibaut-football-ical
@@ -619,6 +894,11 @@ TRANSP:OPAQUE
 DTSTART:20260821T173000Z
 DTEND:20260821T190500Z
 SUMMARY:Friendly | 🏉 - Stade Rochelais - Union Bordeaux Bègles
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-1bee62d9826d2fc4318a@oliverthibaut-football-ical
@@ -630,6 +910,11 @@ DTSTART:20260828T170000Z
 DTEND:20260828T183500Z
 SUMMARY:Friendly | 🏉 - Union Bordeaux Bègles - Section Paloise
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-d88b040366a881eed60e@oliverthibaut-football-ical
@@ -641,6 +926,11 @@ DTSTART:20260905T191500Z
 DTEND:20260905T205000Z
 SUMMARY:Top14 | 🏉 J1 - Union Bordeaux Bègles 64 - 5 Racing 92
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-84235ea6f91806bbb77d@oliverthibaut-football-ical
@@ -652,6 +942,11 @@ DTSTART:20260920T190500Z
 DTEND:20260920T204000Z
 SUMMARY:Top14 | 🏉 J3 - Union Bordeaux Bègles - Stade Français Paris
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-71ad4a93e2574f4846a0@oliverthibaut-football-ical
@@ -663,6 +958,11 @@ DTSTART:20260926T123000Z
 DTEND:20260926T140500Z
 SUMMARY:Top14 | 🏉 J4 - USA Perpignan - Union Bordeaux Bègles
 LOCATION:Perpignan (France) - Stade Aimé-Giral
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-939cbf6e3576778e037f@oliverthibaut-football-ical
@@ -674,6 +974,11 @@ DTSTART:20261003T123000Z
 DTEND:20261003T140500Z
 SUMMARY:Top14 | 🏉 J5 - Union Bordeaux Bègles - LOU Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-a9a54f53d5b1fa6b9cbd@oliverthibaut-football-ical
@@ -685,6 +990,11 @@ DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Top14 | 🏉 J6 - ASM Clermont Auvergne - Union Bordeaux Bègles
 LOCATION:Clermont-Ferrand (France) - Stade Marcel-Michelin
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-652f4a61bc31fe875a33@oliverthibaut-football-ical
@@ -696,6 +1006,11 @@ DTSTART:20261016T190000Z
 DTEND:20261016T203500Z
 SUMMARY:Champions Cup | 🏉 J1 - Gloucester Rugby - Union Bordeaux Bègles
 LOCATION:Gloucester (Angleterre) - Kingsholm Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-ca79e95964d127c3b5de@oliverthibaut-football-ical
@@ -707,6 +1022,11 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Top14 | 🏉 J7 - Stade Rochelais - Union Bordeaux Bègles
 LOCATION:La Rochelle (France) - Stade Marcel-Deflandre
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-b0d608f049d41f4c1505@oliverthibaut-football-ical
@@ -718,6 +1038,11 @@ DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Top14 | 🏉 J8 - Union Bordeaux Bègles - Aviron Bayonnais
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-23b4b83a3e94e9990021@oliverthibaut-football-ical
@@ -729,6 +1054,11 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Top14 | 🏉 J9 - RC Vannes - Union Bordeaux Bègles
 LOCATION:Vannes (France) - Stade de la Rabine
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-e6886bf19b015c9298c6@oliverthibaut-football-ical
@@ -740,6 +1070,11 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Top14 | 🏉 J10 - Union Bordeaux Bègles - Montpellier Hérault Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-4384af09d0a623fc1b30@oliverthibaut-football-ical
@@ -751,6 +1086,11 @@ DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Top14 | 🏉 J11 - RC Toulon - Union Bordeaux Bègles
 LOCATION:Toulon (France) - Stade Mayol
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-1590454002419364bec4@oliverthibaut-football-ical
@@ -762,6 +1102,11 @@ DTSTART:20261213T151500Z
 DTEND:20261213T165000Z
 SUMMARY:Champions Cup | 🏉 J2 - Union Bordeaux Bègles - DHL Stormers
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-5355a78dd85fb061147e@oliverthibaut-football-ical
@@ -773,6 +1118,11 @@ DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Top14 | 🏉 J12 - Union Bordeaux Bègles - Section Paloise
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-6d139967f45e891bd3a1@oliverthibaut-football-ical
@@ -784,6 +1134,11 @@ DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Top14 | 🏉 J13 - Castres Olympique - Union Bordeaux Bègles
 LOCATION:Castres (France) - Stade Pierre-Fabre
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-b7e4d93ace323aa98f19@oliverthibaut-football-ical
@@ -795,6 +1150,11 @@ DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Top14 | 🏉 J14 - Union Bordeaux Bègles - USA Perpignan
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-020a42395d1bdb6d4bc1@oliverthibaut-football-ical
@@ -806,6 +1166,11 @@ DTSTART:20270110T151500Z
 DTEND:20270110T165000Z
 SUMMARY:Champions Cup | 🏉 J3 - Union Bordeaux Bègles - Munster Rugby
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-995fb9f09b5eb159bec6@oliverthibaut-football-ical
@@ -817,6 +1182,11 @@ DTSTART:20270116T151500Z
 DTEND:20270116T165000Z
 SUMMARY:Champions Cup | 🏉 J4 - Bristol Bears - Union Bordeaux Bègles
 LOCATION:Bristol (Angleterre) - Ashton Gate Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-ac54c19de21a6c31a1eb@oliverthibaut-football-ical
@@ -828,6 +1198,11 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Top14 | 🏉 J15 - Racing 92 - Union Bordeaux Bègles
 LOCATION:Nanterre (France) - Paris La Défense Arena
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-d88086dd9c600ced99e9@oliverthibaut-football-ical
@@ -839,6 +1214,11 @@ DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Top14 | 🏉 J16 - Union Bordeaux Bègles - RC Vannes
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-d068ed328591d42a8700@oliverthibaut-football-ical
@@ -850,6 +1230,11 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Top14 | 🏉 J17 - Stade Français Paris - Union Bordeaux Bègles
 LOCATION:Paris (France) - Stade Jean-Bouin
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-13abc12788a2349a192c@oliverthibaut-football-ical
@@ -861,6 +1246,11 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Top14 | 🏉 J18 - Union Bordeaux Bègles - RC Toulon
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-b5068622301df36e4545@oliverthibaut-football-ical
@@ -872,6 +1262,11 @@ DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Top14 | 🏉 J19 - Aviron Bayonnais - Union Bordeaux Bègles
 LOCATION:Bayonne (France) - Stade Jean-Dauger
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-27bee1240b9567a75179@oliverthibaut-football-ical
@@ -883,6 +1278,11 @@ DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:Top14 | 🏉 J20 - Union Bordeaux Bègles - Stade Toulousain
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-4e2bb03b6725f973fb1b@oliverthibaut-football-ical
@@ -894,6 +1294,11 @@ DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Top14 | 🏉 J21 - Montpellier Hérault Rugby - Union Bordeaux Bègles
 LOCATION:Montpellier (France) - Septeo Stadium
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-c8dadab162aa2cf070e1@oliverthibaut-football-ical
@@ -905,6 +1310,11 @@ DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Top14 | 🏉 J22 - Union Bordeaux Bègles - Stade Rochelais
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-59670261775d968d72d0@oliverthibaut-football-ical
@@ -916,6 +1326,11 @@ DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Top14 | 🏉 J23 - Section Paloise - Union Bordeaux Bègles
 LOCATION:Pau (France) - Stade du Hameau
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-62684208fdfe239718bc@oliverthibaut-football-ical
@@ -927,6 +1342,11 @@ DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Top14 | 🏉 J24 - Union Bordeaux Bègles - ASM Clermont Auvergne
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-2dd9a19a9d447ed1c2e5@oliverthibaut-football-ical
@@ -938,6 +1358,11 @@ DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Top14 | 🏉 J25 - LOU Rugby - Union Bordeaux Bègles
 LOCATION:Lyon (France) - Matmut Stadium Gerland
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ubb-ef52024d381f9411027e@oliverthibaut-football-ical
@@ -949,5 +1374,10 @@ DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:Top14 | 🏉 J26 - Union Bordeaux Bègles - Castres Olympique
 LOCATION:Bordeaux (France) - Stade Chaban-Delmas
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
 END:VEVENT
 END:VCALENDAR
