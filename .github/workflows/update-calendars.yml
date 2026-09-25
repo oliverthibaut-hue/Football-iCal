@@ -39,6 +39,7 @@ jobs:
           python archive_f1_history.py
           python update_f1.py
           python merge_history_f1.py
+          python update_nfl.py
           python normalize_uk_locations.py
           python add_alarms.py
 
@@ -47,7 +48,7 @@ jobs:
           git config user.name "football-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics formula1-history.ics
+          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics NFL.ics formula1-history.ics
 
           git diff --cached --quiet || git commit -m "Automatic calendar update"
           git push
@@ -60,6 +61,7 @@ jobs:
           cp Union-Bordeaux-Begles.ics public/Union-Bordeaux-Begles.ics
           cp Arsenal-FC.ics public/Arsenal-FC.ics
           cp Formula-1.ics public/Formula-1.ics
+          cp NFL.ics public/NFL.ics
 
           printf '%s\n' \
             '<!DOCTYPE html>' \
@@ -75,6 +77,7 @@ jobs:
             '  <p><a href="Union-Bordeaux-Begles.ics">Union Bordeaux Bègles</a></p>' \
             '  <p><a href="Arsenal-FC.ics">Arsenal FC</a></p>' \
             '  <p><a href="Formula-1.ics">Formula 1</a></p>' \
+            '  <p><a href="NFL.ics">NFL</a></p>' \
             '</body>' \
             '</html>' \
             > public/index.html
