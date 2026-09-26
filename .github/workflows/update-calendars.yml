@@ -40,6 +40,15 @@ jobs:
           python update_f1.py
           python merge_history_f1.py
           python update_nfl.py
+
+          curl -L \
+            "https://calendar.google.com/calendar/ical/72u5uv0evelnvskdj5jbug3j8o%40group.calendar.google.com/public/basic.ics" \
+            -o france-source.ics
+
+          python update_france.py
+          python archive_france_history.py
+          python merge_history_france.py
+
           python normalize_uk_locations.py
           python add_alarms.py
 
@@ -48,7 +57,7 @@ jobs:
           git config user.name "football-calendar-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics NFL.ics formula1-history.ics
+          git add Real-Madrid.ics Malaga-CF.ics Union-Bordeaux-Begles.ics Arsenal-FC.ics Formula-1.ics NFL.ics Equipe-de-France.ics formula1-history.ics equipe-de-france-history.ics
 
           git diff --cached --quiet || git commit -m "Automatic calendar update"
           git push
@@ -62,6 +71,7 @@ jobs:
           cp Arsenal-FC.ics public/Arsenal-FC.ics
           cp Formula-1.ics public/Formula-1.ics
           cp NFL.ics public/NFL.ics
+          cp Equipe-de-France.ics public/Equipe-de-France.ics
 
           printf '%s\n' \
             '<!DOCTYPE html>' \
@@ -78,6 +88,7 @@ jobs:
             '  <p><a href="Arsenal-FC.ics">Arsenal FC</a></p>' \
             '  <p><a href="Formula-1.ics">Formula 1</a></p>' \
             '  <p><a href="NFL.ics">NFL</a></p>' \
+            '  <p><a href="Equipe-de-France.ics">Équipe de France 🇫🇷</a></p>' \
             '</body>' \
             '</html>' \
             > public/index.html
