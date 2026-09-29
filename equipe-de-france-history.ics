@@ -301,4 +301,18 @@ SUMMARY:UEFA Nation League | Gr. 1 - J1- Turquie 🇹🇷 0 - 1 🇫🇷
  France
 LOCATION:Kocaeli (Turquie) - Turka Araç Muayene Koaceli Stadyumu
 END:VEVENT
+BEGIN:VEVENT
+UID:france-s8hsrqfajfi3kn9rdtdkdfsa7k-google.com@oliverthibaut-football-i
+ cal
+DTSTAMP:20260929T053015Z
+DTSTART:20260928T184500Z
+DTEND:20260928T203000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PUBLIC
+SUMMARY:UEFA Nations League | Gr. A1 - J2 - Belgique 🇧🇪 0 - 1 Franc
+ e 🇫🇷
+LOCATION:Bruxelles (Belgique) - Stade Roi Baudouin
+END:VEVENT
 END:VCALENDAR
