@@ -304,7 +304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:france-s8hsrqfajfi3kn9rdtdkdfsa7k-google.com@oliverthibaut-football-i
  cal
-DTSTAMP:20261002T053047Z
+DTSTAMP:20261003T053916Z
 DTSTART:20260928T184500Z
 DTEND:20260928T203000Z
 SEQUENCE:0
@@ -314,5 +314,19 @@ CLASS:PUBLIC
 SUMMARY:UEFA Nations League | Gr. A1 - J2 - Belgique 🇧🇪 0 - 1 Franc
  e 🇫🇷
 LOCATION:Bruxelles (Belgique) - Stade Roi Baudouin
+END:VEVENT
+BEGIN:VEVENT
+UID:france-c392q86m4flc7ontrthfchfvl4-google.com@oliverthibaut-football-i
+ cal
+DTSTAMP:20261003T053916Z
+DTSTART:20261002T184500Z
+DTEND:20261002T203000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+CLASS:PUBLIC
+SUMMARY:UEFA Nations League | Gr. A1 - J3 - France 🇫🇷 1 - 1 Italie 
+ 🇮🇹
+LOCATION:Saint-Denis (France) - Stade de France
 END:VEVENT
 END:VCALENDAR
