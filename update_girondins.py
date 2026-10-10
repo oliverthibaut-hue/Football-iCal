@@ -76,7 +76,7 @@ def team_name(value, cache):
     return name.strip()
 
 def main():
-    for path in (SOURCE, HISTORY):
+    for path in (HISTORY,):
         if not path.exists():
             raise SystemExit(f"Fichier manquant : {path}")
 
