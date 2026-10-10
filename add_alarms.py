@@ -12,6 +12,7 @@ FILES = [
     "Formula-1.ics",
     "NFL.ics",
     "Equipe-de-France.ics",
+    "Girondins-de-Bordeaux.ics",
 ]
 
 ALARM = [
