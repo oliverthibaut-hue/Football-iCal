@@ -821,4 +821,19 @@ SUMMARY:Coupe de France | 4ème Tour - FC Girondins de Bordeaux 1 - 5 Ang
  oulême Charente FC
 LOCATION:Le Bouscat (France) - Stade Sainte Germaine
 END:VEVENT
+BEGIN:VEVENT
+UID:girondins-40000@oliverthibaut-football-ical
+DTSTAMP:20261010T000000Z
+DTSTART:20261010T093000Z
+DTEND:20261010T111500Z
+SUMMARY:Friendly | FC Girondins de Bordeaux 3 - 0 Étoile Maritime FC
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+LOCATION:Terrain d'entraînement du Haillan
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Rappel - début dans 15 minutes
+END:VALARM
+END:VEVENT
 END:VCALENDAR
