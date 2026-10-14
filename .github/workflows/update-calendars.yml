@@ -34,8 +34,12 @@ jobs:
           python update_all.py
           python merge_history.py
           python merge_history_malaga.py
-          python update_ubb.py
-          python merge_history_ubb.py
+                    if python update_ubb.py; then
+            python merge_history_ubb.py
+          else
+            echo "::warning::Source UBB indisponible : conservation du dernier calendrier UBB publié."
+            test -s Union-Bordeaux-Begles.ics || exit 1
+          fi
           python archive_f1_history.py
           python update_f1.py
           python merge_history_f1.py
