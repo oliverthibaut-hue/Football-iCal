@@ -106,6 +106,7 @@ TEAM_NAMES = {
 
     "LOSC Lille": "LOSC Lille",
     "Lille": "LOSC Lille",
+    "Lille OSC": "LOSC Lille",  # Nom fourni par football-data.org
 
     "FC Bayern München": "Bayern Munich",
     "Bayern München": "Bayern Munich",
