@@ -1,5 +1,7 @@
 import json
 import os
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -29,12 +31,29 @@ def download(url, filename, headers=None):
 
     print(f"Téléchargement : {filename}")
 
-    with urllib.request.urlopen(
-        request,
-        timeout=30
-    ) as response:
+    # Trois essais au total pour les pannes temporaires uniquement.
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                content = response.read()
+            break
+        except urllib.error.HTTPError as error:
+            error.close()
+            if error.code not in {500, 502, 503, 504} or attempt == 2:
+                raise
+            reason = f"HTTP {error.code}"
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise
+            reason = "erreur réseau ou délai dépassé"
 
-        content = response.read()
+        delay = 5 * (2 ** attempt)
+        # Ne pas afficher les en-têtes contenant la clé API.
+        print(
+            f"::warning::{filename} : {reason}. "
+            f"Nouvel essai {attempt + 2}/3 dans {delay} s."
+        )
+        time.sleep(delay)
 
     if not content:
         raise RuntimeError(
